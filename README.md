@@ -46,3 +46,4 @@ Cybersecurity Enthusiast & Analyst
 
 ## 📄 View the Full Report
 
+https://github.com/bose1234/Wireshark-Network-Traffic-Analysis-project-/blob/main/WIRESHARK%20NETWORK%20TRAFFIC%20ANALYSIS%20REPORT.pdf
